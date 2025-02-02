@@ -1,0 +1,16 @@
+{
+    "token": "BOT_TOKEN",
+    "clientId": "BOT_ID",
+    "guildId": "SUNUCU_ID",
+    "logChannelId": "LOG_KANAL_ID",
+    "statusRoles": [
+        {
+            "roleId": "ROL_ID",
+            "statusTexts": ["Shell Co.", "Altyapılar"]
+        },
+        {
+            "roleId": "ROL_ID",
+            "statusTexts": ["Starr Inc.", "Kod"]
+        }
+    ]
+}

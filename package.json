@@ -1,0 +1,27 @@
+{
+  "name": "durum-rol-altyapi",
+  "version": "1.0.0",
+  "description": "Durum Rol Sistemi - Discord.js v14",
+  "main": "starr.js",
+  "scripts": {
+    "start": "node starr.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "durum",
+    "rol"
+  ],
+  "author": "Starr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/starrhub/Durum-Rol-Altyapi-Discord.js-v14"
+   },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
